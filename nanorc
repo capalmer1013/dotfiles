@@ -2,4 +2,5 @@ set autoindent
 set softwrap
 set speller spellprog
 set tabsize 4
+set tabstospaces
 set smooth
